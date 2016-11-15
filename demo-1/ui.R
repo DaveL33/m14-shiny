@@ -1,6 +1,6 @@
 # From http://shiny.rstudio.com/articles/basics.html
 library(shiny)
-
+install.packages('shiny')
 # Define UI for application that draws a histogram
 shinyUI(fluidPage(
   
